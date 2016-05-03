@@ -1,0 +1,71 @@
+EUCLIDIS ELEMENTORUM LIBER DECIMUS.
+
+469
+
+Lemma subsequens Euclidis esse minime potest, eo quod propositionis 1
+
+lib. 6 consequentia sit proxima.
+Λ Η M M n.
+
+Εᾶν Zm τρεῗς εὐθεῖαι ἐν λιῖᾳῳ τινὶ, ἔσται
+ὣς ἦ ’πρώτη πρὸς τὴν τρίτην οὕτως τὲ ὑπὸ τῗῐς
+’πρώτης mg) μέσης ’πρὸς τὸ ὑπὸ τῆς μέσης καὶ
+ἐλαχίστης.
+
+lio-remoti( τρῑῗς εὐθεῖαι ἒν λόγῳ τη) , αἱ AB,
+ΒΓ, ΓΔ· λέγω ὅτι ἐστὶν ὡς ἦ ΑΒ πρές τᾶν ΓΔ
+οὕτως τὸ ὑπὸ τῶν ΑΒ, ΒΓ πρὸς τὸ ὑπό τῶν
+
+ΒΓ, ΓΔ.
+
+Ζ
+
+ἶ
+ι
+
+Α Β
+
+Ηχθω ’γὰρ ἇπό τοῦ Α σημείου τῇ ΑΒ ’πρὸς
+opem} ἶι AE, na) κείσθω τῇ ΒΓ ἴση ἦ ΑΕ ‚ καὶ
+a& τοῦ E σημείου τῇ ΑΔ εὐθεῖα παράλληλος
+ἰίχθω filit-1, δίοέ δῖ τῶν Β, Γ, Δ σημείων τῇ ΛΕ
+παράλληλοι ἤχθωσαν αἱ ΖΒ, ΘΓ, ΗΔ. Καὶ
+
+ἔπει] ἔστιν ὦς ἦ ΑΒ ’πρὶς τὴν ΒΓ οὕτως τὸ ΑΖ
+
+LEMMA.
+
+Si sint tres rcctoe in ratione aliqua, erit ut
+prima ad tertiam ita reclangulum sub primii et
+
+media ad ipsum sub medi& et minim-⁷3.
+
+Sint tres rcctae ΑΒ, ΒΓ, ΓΔ iuratione aliqu&
+dico esse ut AB ad ΓΔ ita sul» ΑΒ, ΒΓ rectan-
+gulum ad ipsum sub BF, ΓΔ,
+
+Θ H
+
+Γ Δ
+Ducatur enim a puncto Α ipsi ΑΒ ad rectos
+angulo-s, AE, ct ponatur ipsi ΒΓ aequalis ΑΕ,
+et pei· punctum E ipsi ΑΔ recta parallcla duca-
+tui· ΕΗ ‚ scd per puncta B ‚ Γ, Δ ipsi ΑΕ paral-
+lelae ducantur ZB‚ ΘΓ, ΗΔ. Et quoniam est ut
+AB ad ΒΓ ita ΛΖ parallelogrammum ad ΒΘ pa·
+
+L E M M E.
+
+Si l'on a trois droites dans unc raison quelconque ‚ la premi'ere sera :a la
+troisicme comme le rectanglc sous la prcmi‘cre ct ln moycnne est au rectangle
+sous la moyenne et la plus petite.
+
+Soient les trois droites ΑΒ , ΒΓ, ΓΔ dans une raison quelconq11e3 je dis quc
+ΑΒ est ἐι ΓΔ comme le rectanglc sous ΑΒ, ΒΓ est an rectangle sous ΒΓ, ΓΔ.
+
+Car du point Α menons la droite ΑΕ perpendiculaire ὲι ΑΒ,· saisons ΑΕ &gal 32
+81⁴3 par le point E menons la droite ΕΗ parallcle Ξ] ΑΔ , etpar les points Β, Γ, Δ
+menons ΖΒ, ΘΓ, ΗΔ [ωειΙΙὸΙεε ἐι ΛΕ. Pnisque ΑΒ est ὲι Br comme le parallc’lo-
+
+’μ Deest iu codd. α , d, e, Ῑι , m, η,- reperitur autem in codd. c‚f‚ l.
+

@@ -1,0 +1,76 @@
+LE HUITIEME LIVRE DEs ELFLMENTS D'EUCLIDE. 5
+
+aaz) ἐλάχιστοι. Em} ‘peip οἱ Α, Β ἐλάχιστά εἶσι
+τῶν τὸν αὐτ-ὂν λόγον {kim-osv αἰτεῖς, οἱ δὲ
+ἐλάχιστοι τῶν τὸν ‹xC-riv 752021 ἔχε’ντων αὖτοῖςῖ),
+πρῶτει πρὲς ἀλλήλους eicit* οἱ Α, Β Εἶρα πρῶτοι
+Χ 7 V 5 Ι Χ ἲ Ι Χ Ν
+’,τρες αλληλειις εισι. Και εκατερος μεν των Α,
+Β ἑαυτὸν πολλαπλασιάφας ἑκάτερον τῶν Γ, Ε
+πεποίηκεν, ἑκάτερον δὲ τῶν Γ, E πολλαπλα-
+σιάσας ἑκάτερον τῶν Ζ, K πεποίηκεν· ci Γ, Ε
+ἄρα καὶ οἱ Ζ, Κ ’,τῗῶτοι πρές οἷλλὶῖλιυς εἷο-ἵν.
+i θ’ ff n· 5 “ ‘⁹³⁴ 2 f t
+Em s} <hm ιτνεσσιιωΓ αριθμω εζης mmmm σι’, οι
+δέ ἄκροι αὐτῶν πρῶτοι πρὶς ἆλλήλευς (surm,
+ἐλάχιστοί εἷα-ι τῶν τὶν αὗτὲν λέγει» ἔχε’ντων
+αὐτοῖς· οἱ Γ, Δ, E ἄρα καὶ οἱ Ζ, H, Θ, K {ME-
+χιστοί εἶσι τοῖν τόν σι’-ἰτὲν λε’)ον {xii-rant τοῖς
+
+Α, Β. Οπερ ἐ’δέι δεῖξαι.
+ΠΟΡῙΣΜΑ.
+
+En :Ny τούτου oneph, ἔτι Ξιὶνῐο τρεῖς ἀριθμοὶ
+ἔξῗς άεαίληεν ἐλάχιςτει ὦσι τῶν τὸν αὗτὲν
+>xi->or ἒχέιτων αἰτεῖς, οἱ ἄκροι αὐτῶν τετραέ-
+
+Ἱπονιί εἰσιν· ἰ’ἰιν δῖ τέσσαρες, κύέω.
+
+Α, Β minimi sunt ipsorum eamdem rationem
+habentium cum ipsis , ipsi 'ante-m minimi ipso-
+rum eamdem rationem habentium cum ipsis
+primi iutcr se sunt; ipsi Α , Β igitur primi inter
+se sunt. Et vterque quidem ipsorum A, B se
+ipsum multiplicans utrumque ipsorum Γ. E secit5
+utrumque vero ipsorum Γ, E multiplicans,
+utrumque ipsorum Z ‚ 1< feci13 ipsi Γ, E igitur et
+Z, Kprimi interse sunt. Siautem sint quotcunque
+numeri deinceps proportionales, extremi vero
+eornm primi inter se sint , minimi sunt corum
+camdem rationem habentium cum ipsis ς ipsi Γ,
+Δ, E igitur et ipsi Z, H, Θ, Ι( minimi sunt
+eorum eamdem rationem habentium cum ipsis
+
+Λ,Β. Ἀιοι] oportebat ostendere.
+COROLLARIUM.
+
+Ex hoc igitur evidens est, si tres numeri
+deinceps proportionales minimi sunt. ipsorum
+eamdem rationem habentium cum ipsis, extremos
+
+eornm quadratos esse5 si autem quatuor, cubos.
+
+nombrcs de ceux qui ont Ia meme raison avec eux , etque les plus petits nombres
+de ceux qui ont la meme raison avec eux sont premiet‘s entr‘eux (23. 7), les
+nombrcs A, Β sont premiers enti-'cux- Mais les nombrcs A , Β , se multiplifflst eux..
+
+mfflnes, out fait Γ, Ε, et les numhres Α, Β multipliant r, E ont fuit Z, K; (lonc
+les nomines Γ, E et z, Κ sont premiers entr'eux (29. 7). Mais si tant (16 uombres
+qu’on vondra sont siicces>ix’t=1iieiit proportionnels, et si leuis extremes sont
+
+premiers eutr-eux, ces nomin-es sont ies plus petits de ceux qni out la nieme
+raison avec eux (1. ’ὣς donc lcs nombres r, Δ, E et les nombres Ζ, Η, Θ, K sont
+
+les plus petits de ceux qui ont la nieme raison avec A, Β.
+
+demontrer.
+
+Ce qu'il fallait
+
+COROLLAIRE.
+
+De lii il est ‹Svident que si trois nomines successivement proportionnels sont
+
+les plus petits ‹le ceux qui ont la menie raison avec eux, leurs extremes sont
+des quarres,· que si l'on a quatre nombres, les extremes sont des cubes.
+

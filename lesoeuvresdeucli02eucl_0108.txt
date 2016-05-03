@@ -1,0 +1,68 @@
+58 LE NEUVIEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+nPOTAEIE δ’·
+
+EQ nu'Cm αριθμὲς κᾶςον αριθμὸν πολλαπλα-
+σιοίσας ποιῇ τινα, ἕ 7ει’όμειός κύξος ἔσται.
+
+Κύβος Ἰάρ ἆριθμός ὅ Α κύζον οἷριθμόν τον Β
+πολλαπλασιάσας τὸν Γ ποιείτω· λίὶω ’ἔτι ὃ Γ
+
+nagog ἐστίν.
+
+O ᾳοὶρ A¹ ἑαυτὶν πολλαπλασιάσας τὸν Δ
+ποιείτω· ὃ Δ ἄρα κύξος ἔστί. Καὶ ἐπεὶ ὁ Α
+ἕαυτὲν μὲν πολλαπλασιάσας τον Δ πεποίηκε,
+τὸν δῖ Β πολλαπλασιάσας τὸν Γ πεποίηκεν· ἔστιν
+
+ἄρα ὦς ὃ Α πρὸς τὸν Β οὕτως ὅ Δ πρὶς 731-1‘.
+
+Ka) ἐπεὶ οἱ Α, Β κύςοι εἰσιν, ἕμοιει στερεοί εἰσιν ,
+
+οἱ A, B2· τῶν A, Β ἄρα δύο μέσοι οἱιαλοφον
+ἐμπίπτουσιν ἀριθμοί· ὥς τε καὶ τῶν A, Γ δὶῖο
+μέσοι ἀνάλογον ἐμπεσοῦνται ἇριθμοί. Καὶ ’ἐστι
+
+πύξος ὃ Δ· κύζος-ἐίρα καὶ ὅ Γ. Οπερ ἔδει δεῖξαι.
+
+PROPOSITIO IV.
+
+Si cubus numerus cubum numerum multipli-
+cans facit aliquem, sactus cubus crit.
+subus enim numerus A cubum numerum
+ipsum B multiplicans ipsum Γ faciam dico Γ
+
+cubum esec.
+
+, 27.
+
+216.
+
+Ipse enim A se ipsmm multiplicans ipsum Δ
+saciat3 ergo Δ cubus est. Et quoniam A se
+ipsum quidem multiplicans ipsum Δ l'ccit , ipsum
+xero B 111ultiplicans ipsum Γ secit3 cst igitur
+ut A ad B ita Δ ad F.thuo11iam A, B cubi sunt,
+similes solidi suut A, 133 ergo iuter A , Β duo
+medii proponionalcs cadunt numeri3 qnare et
+inter A, Γ· duo medii proportionales cadunt
+numeri. Atque est cubus A5 cubus igitur et Γ.
+
+Quod oportebat ostendere.
+
+PROPOSITION IV.
+
+Si un nombre cube multipliant un nombre cube fait un nombre, le produit sera
+un cube.
+Car que le nombre cube A multipliant le nombre cube Β fasse r‚· je dis que r
+
+est un cube.
+
+Car que A se multiplant lui-meme fasse A, le nombre Δ sera un cube (3. 9).
+Et puisque A se multipliant lui-meme a fait A, et que A multipliant Β fait r, le
+nombre A est ὲι Β comme Δ est ὲ Γ ( 17. 7). Et puisque les nombres A ‚ Β sont des
+cubes, les nombres A ‚ B sont des solides semblables. ll tombe donc entre A et B
+deux nombres moyens proportionnels (¹9· 8); il [ombera (lonc aussi entre Δ et
+r deux nombres moyens proportionnels (8. 8). Mais A est uu cube; donc r est
+un cube (25. 8). Ce qu'il fanait demontrer.
+

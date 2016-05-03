@@ -1,0 +1,84 @@
+LE DIXIEME lenE DEs ELEMENTS D'EUCL1DE.
+
+AHMMA.
+
+Εέιν εὐθεῖα ’γραμμνῖ τμηθῇ εἷς ἄνια-α, τοὶ ἀπὸ
+τ’ὤν ἀνίσων τετράγωνα μείζονι( ἔστι τοῦ ὣς ὖττὸ
+τῶν ἀνίσων περιεχομένου <34:902 minu.
+
+Εστω εὐθεῖαι ἦ ΑΒ, καὶ τετμήσθω εἰς εἶναι
+κατὰ τὲ Γ, καὶ ’ἔστω μείζων ἡ ΑΓ· λέῖω ἔτι τοὶ
+dv& τῶν ΑΓ, ΓΒ μείζονά ἔστι τοῦ δὶς ὑπὸ τῶν
+ΑΓ, ΓΒ,
+
+A Δ
+
+Τετμήσθω ᾳᾶρ ἦ ΑΒ δίχα κατὰ τὸ Δ. Erre}
+οῧν εὐθεῖα γραμμὴ τέτμηται εἷς μὲν ἴσα nam-Se
+’τό Δ, εἷς δὲ οἶμα-οι κριτοὶ τὸ Γ· τὲ ἄρα. ὗπό
+τῶν Ar, ΓΒ μετὰ τοῦ ἐπεὶ ’τῗις1 ΔΓ ἴσον ἐστὶ τῷ
+οἶπό τῗῐςῖ ΑΔ” ὥστε τὸ ὑπὸ τῶν ΑΓ, ΓΒ ’ἔλαττόν
+’ Ν ἳ ἵ Α. 3 Χ >J Χ 9 Χ Ν
+εστι του avo της ΑΔ· το αρε( ὣς υττο των ΑΓ,
+ΓΒ Ἰλαττον ἢ «Γιπλεῖσ-ιόν ἐστι ’τοῦ ἀπὸ ’τῆς AM.
+Αλλαὶ τοὶ ἀπὸ τῶν ΑΓ, ΓΒ ‹hm->mimi ἔστι τῶν
+dv& τῶν ΑΔ, ΔΓ· τά o'z'poe ἀπὸ τῶν ΑΓ , ΓΒ μεί-
+ζονεί ἐστι τοῦ <fig ὑπὸ τῶνῦ ΑΓ, ΓΕ. Οπερ Uet
+
+ἆῖξειι.
+
+ 
+
+263
+
+LEMMA.
+
+Si rocla linea secetur iu partes inaequales,
+ipsarum inaequalium quadrata majora suut rec-
+tangam his const-nm sub ipsis inzequalibus.
+
+Sit ructu linea AB, ct secehu· iu partes inae-
+quales ad punctum Γ, et sit major AF3 dieo
+quadrata cx AF, FB majora csse rectangulo bis·
+sub AF, ΓΒ.
+
+Γ
+
+ 
+
+B
+
+S‹:cet111·eni1nA31)ifari31111in Δ. Quoniam igi-
+tur recta linea secatur iu parles quidem aequales
+gu-
+lum igilur sub AF, ΓΒ cum quadrato ex ΔΓ
+
+ad Δ, in partes veri) inaequalcs ad Γ; reclan
+
+aequale est quadrato ex ΛΔ; quare reclangulum
+sul) AF, ΓΒ miuus est quadrato ex AA5 reclan-
+guliuu igilur bis sub ΑΓ, ΓΒ minus est quium
+duplum quadrati “xAA. Sed quadrala ex Ar, pff
+dupla sunl quadratorum ex ΑΔ , ΔΓ5 ergo qua-n
+drata ex ΑΓ, ΓΒ majora sunt rectangulo bis sub
+
+ΑΓ, ΓΒ. mod oporkebat oswaderc„
+
+LEMME.
+
+Si une ligne droite est coupde en parties inQales ‚ la somme des quarffis de ces
+parties ism'rgales ‘est plus grande que 16 double rectangle compris sous ces parties.
+
+soit la droite AB; conpons-la en ραι-ιὼς ἱηέςαΙες au point Γ, eL que ΑΓ soit la
+plus grande; je dis que lu somme des quar1·<{s de ΑΓ et de ΓΒ cst plus grande
+que 16 (16ιι1)16 rectangie sous Ar, ΓΒ.
+
+Que 11¹ (hoie ΑΒ soit compi-e en deux pal-[ies &gaios en Δ. Puisquc la ligne drosse
+ΑΒ est coz pse en parties ‹igales au point Δ , et en parties in‹'›gales au point r, le
+Tectangle sous Ar,1B avec 16 quarn} de ΔΓ sera eiga} au quarn} de ΑΔ (5. 2);
+le rectangle sous Ar, ΓΒ est donc plus petit que le quart& de ΑΔς le double
+rectangle sous ΛΓ, ΓΒ est donc plus petit que 16 double quarn} (16 ΑΔ. Mais
+la somme des quarrfis de Ar et de ΓΒ cst double de la somme des quarrc's de
+ΑΔ οι de ΔΓ ζ 9. 2) ; la somme des quarre's (16 ΑΓ et de ΓΒ est donc plus grande
+qne le double rectaugle sous Ar, ΓΒ. Ce qu'il fullait doimontrer.
+

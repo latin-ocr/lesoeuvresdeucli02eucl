@@ -1,0 +1,54 @@
+LE NEUVIEME LIVRE oEs ELJZMENTS D’EUCLIDE. 81
+
+oi B, Γ πρὲς τᾶν Α πρῶτοί εἰσ-ι. Λέγω δῖι ὅτι
+καὶ οἱ A, Γ πρὸς τὸν Β πρῶτοί εἰσιν. Επεὶ γάρ
+ὂ ΔΖ πρός ἑκάτερον τῶν ΔΕ, ΕΖ πρῶτός ἔστιν*
+ἅς τε καὶ ἆ ἀπὸ τοῦ ΔΖ πρές ’τὸν ὑπὸ τῶν ΔΕ,
+ΕΖ ’πρῶτός ἔστιν. Αλλεὶ τῷ nimi τοῦ ΔΖ ἴσοι
+εἰσὶν oi nimi τῶν ΔΕ, ΕΖ μετὰ τοῦ Ji< ,ὑπὸ
+τῶν ΔΕ, ΕΖ· καὶ οἱ ἀπὸ τῶν ΔΕ, ΕΖ ἄρα μετὰ
+τοῦ <sig &22⁶ τῶν ΔΕ, ΕΖ πρὸς τὸν ὑπὸ τῶν
+ΔΕ, ΕΖ πρῶτοί εἰσ-ι. Διελέντι οἱ ἀπὸ τῶν ΔΕ,
+ΕΖ μετὰ τοᾶ ἅπαξ ὖπό τῶν ΔΕ, ΕΖ πρὲς τὸν
+ὑπὸ τῶνῖ ΔΕ, ΕΖ πρῶτοί εἰσιν· ’ἑτι διελόντι oi
+ἐπὶ τῶν ΔΕ , ΕΖ οἶμαι πρὲς τὸν ιῖττὸ ’τῶν8 ΔΕ ‚ ΕΖ
+πρῶτοί εἱσι. Καὶ ἔστιν ὁ μὲν ἀπὸ τοῦ ΔΕ ὁ A, ὅ δὲ
+ὑπὸ τῶν ΔΕ, ΕΖ o‘ B, ὁ ὁὶ ivr& τοῦ ΕΖ Ξ Γ· οἱ
+
+Α, 1· ἄρα συιτεθὲντες πρὲς τὸν Β πρῶτοί εἰσι.
+
+ipsos Β7 Γ ad A primm csse. Dico et ipsos A, Γ
+ad B primos esse.Quoniam enim ΔΖ ad utrumque
+ipsorum ΔΕ, EZ primus est; quare et ipse
+cx ΔΖ ad ipsum ex ΔΕ, ΕΖ primus est. Sed
+ipsi ex ΔΖ aequales sunt ipsi ex ΔΕ, ΕΖ cum
+ipso bis ex ΔΕ, ΕΖ) et ipsi¹ ex ΔΕ, ΕΖ
+igitur eum ipso bis ex ΔΕ , ΕΖ ad ipsum cx
+ΔΕ, ΕΖ primi sunt. Dividendo ipsi ex ΔΕ, ΕΖ
+cum ipso semel ex ΔΕ, ΕΖ ad ipsum ex ΔΕ,
+ΕΖ primi sunt; et rursus dividendo ipsi ex
+ΔΕ, E·Z igitur ad ipsum ex ΔΕ, ΕΖ primi
+sunt. Atque est quidem ipse ex ΔΕ ipse A ‚ ipse
+autem ex ΔΕ, ΕΖ ipse B, ipse vero ex ΕΖ ipse F5
+ergo A ‚ Γ compositi ad ipsum Β primi sunt.
+
+Quod oportebat ostendere.
+
+Οπερ ἔδει thigen.
+
+nombres Β, Γ est uu nombre premier avec .Α Je dis aussi que la somme des nombres
+A, r estun nombre premier avec B. Car puisque ΔΖ est un nombre premier avec
+chacun des nombres ΔΕ, ΕΖ (30. 7), 16 quarre de ΔΖ sera un nombre premier
+avec le produit de ΔΕ par ΕΖ (26 et 27. 7). Mais la somme des quarres des nombres
+ΔΕ, ΕΖ , avec deux fois le produit de ΔΕ par ΕΖ , est egale au quarre de ΔΖ (4. 2);
+donc la somme des quarres des uombres ΔΕ , ΕΖ, avec deux fois le produit de ΔΕ
+par ΕΖ , est uu nombre premier avec le produit de ΔΕ par ΕΖ; donc ‚ par sous-
+tractiou ‚ la somme des quarres des nombres ΔΕ , ΕΖ , avec uue fois le produit
+de ΔΕ par ΕΖ, est un nombre premier avec 16 produitde ΔΕ par EZ; douc, par sous-
+traction , la somme des quarres des nombres ΔΕ , ΕΖ est un nombre premier avec
+le produit de ΔΕ par ΕΖ. Mais le quarre de ΔΕ est A, le produit de ΔΕ par ΕΖ est B,
+et le quarre de ΕΖ est r; donc la somme des nombres Α, Γ est un nombre premier
+avec B. Ce qu'il fallait demontrer.
+
+11. 11
+

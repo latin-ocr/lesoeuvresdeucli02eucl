@@ -1,0 +1,83 @@
+LE NEleEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+κατὰ τὶν Ε· ὅ Α ἄρα τὸν Ε πολλαπλασιάσας
+τὶν Δ πεποίηκεν. Αλλὲι μὴν καὶ ὃ Β ’τὶν Γ πολ-
+λαπλασιάσας τὸν Δ πεποίηκεν· ὅ αἴρει {n ’τῶν
+A, E ἴσος ε’στ) τῷ ἐν. τῶν Β , Γ· ἐιναίλογον a't'f214
+ὧς ὃ Α πρὶς τὸν Β οὕτως’5 ὂ Γ πρὲς τόν E·
+τοῖς16 Α, Β , Γ ἆραι τέταρτος ἀναλόγον εἷς
+προσεύρηται ὃ 13¹7.
+
+Αλλοὲ ὃν) μή μετρείτω ὅ Α τὸν Δ· λέγω ὅτι
+ἀδύνατόν ἔστι τοῖς Α, Β, Γ τέταρτον αἰναί-
+λοῖ ον προσευρεῖν ἀριθμόν. Εἰ γάρ «formay ‚
+προσευρήσθω o‘ E· ἱ ἄρα ἐκ τῶν Α, E ἴσος ἐπὶ
+’τῷ ἐκ τῶν Β, Γ. Αλλ’ ὃ ἐκ τῶν Β, 1· {rx-iv ἑ Δ·
+
+καὶ ἑ ἐκ τῶν A, E ἄρα ἴσος ἐστὶ τῷ Δ· ὅ Α ἄρα
+A, 20.
+
+τὸν E πολλαπλασιάσας ’τὶν Δ πεποίηκεν· ὅ Α
+ἄρα τὶν Δ μετρεῖ κατὰ τὲν E· ὥστε μετρεῖ ὃ
+A τὸν Δ. Ama} not} οὗ μετρεῖ, ’ὅπερ ἄτοπον· οὐκ
+ἄρα δυνατόν ἔστι τοῖς A, B, Γ τέταρτον οἶνοί-
+
+¹3, ἕταν ὃ Α τᾶν Δ ,wi
+
+>xz->ov πρεσευρεῖν ἀριθμὲν
+μετρξῐ.
+
+Ami δὴ οἵ A, B, Γ μήτε ἔξῖίς ’ἔστωσαν
+ἀιτὶλεςαν, μήτε οἷ οἵκρω πρῶτοι πρές εΞλ-
+
+>ainau ς.
+
+Β, 50. r, 45.
+
+89
+
+ergo A ipsum E multiplicans ipsum Δ fecit.
+
+,ΑΙ vero ct B ipsum Γ multiplicans ipsum
+
+Δ fecit3 ipse igitur ex A, E :equalis est ipsi ex
+B , F3 proportionaliter igitur est ut A ad B ita
+Γ ad E3 ergo ipsis A , B, Γ quartus proportio-
+
+tionalis unus E iuventus est.
+
+At vero non metiatur A ipsum A‚· dico impos-
+sibile esse ipsis A, B, Γ quartum proportionalem
+iuvenire numerum. Si enim possibile, invenia-
+tur ipse 133 ipse igitur ex A, E aequalis est ipsi
+ex B ‚ Γ. Sed ipse cx B, Γ est ipse A3 ergo et
+ipse ex A , E aequalis est ipsi A; ergo A ipsum
+
+E multiplicans ipsum Δ fecit3 ergo A ipsum Δ
+metitur per unitates quae in E3 quare metitur A
+ipsum A. Sed et non metitur ‚ quod absurdum3
+non igitur possibile est ipsis A ‚ B, Γ quartum
+proportionalem invenire numerum , quando A
+ipsum A non metitur.
+
+Sed et A ‚ B ‚ Γ non deinceps sint proportio-
+
+tionales, neque extremi primi inter se.
+
+multipliant E fera Δ. Mais Β multipliant r fait Δ; donc le produit de A par E sera
+egal au produit de Β parr; donc A est :a Β comme 1· est ὲ Ε (19. 7); on adone
+trouve, uu quatrieme nombre E proportionnel aux nombres A, Β, Γ.
+
+Que A ne mesni-e pas A; je dis qu'il est impossible de trouver un quatrieme
+nombre proportionnel aux nonibres A ‚ B , s. Cur si cela est possible, soit trouve
+E,· le produit de A par E sera egal au produit de Β par Γ (19. 7). Mais le
+produit de h* par 1· est Δς donc le produit de A par Ε est ega} ὲ Δ; donc A multi-
+pliunt E fera ⁵³5 donc A mesure Δ pai· E3 donc A mesore Δ. Mais il ue le mesure
+pus , ce qui est absurde3 il n’est donc pas possible de trouver un quatrieme
+nombre proportionnel aux noinbres A , B, Γ , lorsque A ne [nesure pas Δ.
+
+Mais que les nombres A , B, r ne soient pas successivement proportionnels‚ et
+que les extremes ue soient pais premiers entr'eux.
+
+II. Ι 2
+

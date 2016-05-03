@@ -1,0 +1,70 @@
+LE HUITIEME leRE DEs ELE'MENPS D'EUCLIDE. 13
+
+Ως δῖ ὃ 1· πρὸς τὶν E οὕτως ἒ H πρὸς τὶν Θ· καὶ
+ὦς ἄρα ἑ H ’,τρὶς τὸν Θ οὕτως ὃ Α πρὸς τὶν Α.
+Πάλιν, ἐπεὶ ἱ E τὶν Δ πολλαπλασιάσας τὸν Λ
+πεποίηκεν, ἄλλα) μὴν καὶ τὶν Ζ πολλαπλασιάσας
+τὶν Β πεποίηκεν· ἔστιν ἄρα ὡς ὃ Δ erpi< τόν Ζ
+οὖτωςό Α πρὶς 'riv Β. AM( ὧς ὂ Δ πρὶς τὶν Ζ
+eboni Θ πρὲς τὲν K· καὶ ὧς αἴρει ὅ Θ πρὶς τὶν
+Κ οὔτως ὃ Λ πρὶς τὶν Β. Εᾶἒίχθκ st καὶ ὦςό Η
+’.τρὶς τὶν Θ οὕτως ὃ Α πρὶς τὸν Α· ‹Mo-ou ἄρα
+ἐστὶν ὧς Ξ H ,τρὶς τὸν K οὓτως5 ὃ Α ’,τρὶς τὸν Β.
+Ο δὲ H ’,τρὶς τὸν Κ λό’) εν ἔχει τόν συγκείμενον ἓν.
+τῶνπλευρῶν· καὶ ὅ Α ἄρα πρός τὶν Β λόφον ἔχει
+
+’τὸν συγκείμενον ἔκ τῶν πλευρῶν. Οπερ ἔδει δεῖξαι.
+
+ΠΡΟΤΑΣΙΣ ς’.
+
+Edu ἕσιν Erras-010& ἀριθμοὶ ἔξὶἷς ἀνάλογον,
+ὅ δὲ πρῶτος τὸν δεύτερον μὴ μετρεῖ·ψσῦδ“ἒ ἄλλος
+οὐδεὶς οὐθένα μετρήσει.
+
+Εστωταν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον,
+οἵ Α, Β, Γ, Δ, Ε, ὅ δὲ A τᾶν Β μὴ μετρείτω·
+
+λέγω ’ὅτι adst ἄλλος οὐδεὶς adsim μετρήσει.
+
+et ut igiturH ad Θ ita A ad A. Rursus, quo-
+niam E ipsum A multiplicans ipsum Λ fecit ‚
+sed auten] et ipsum Z multiplicans ipsum B
+secit3 est igitur ut Δ ad Z ita A ad B. Sed ut
+Δ ad Z ita Θ ad K3 et ut igitur Θ ad K ita Λ ad
+Β, Ostensum est autem ut H ild Θ ita A ad A?
+ex aequo igitur est ut H ad K ita Α ad B. Ipse
+autem H ad K rationem habet compositam cx la-
+teribusj et A igitur ad B rationem habet com-
+positam ex lateribus. Quod oportebat osten-
+
+dere.
+
+PROPOSITIO VI.
+
+Si sint quotcunque numeri deinceps propor-
+tionales , primus autem secundum nou metiatur,
+neque alius aliquis ullum metietur.
+
+Sint quotcunque numeri deinceps proportio-
+nales A , B ‚ Γ, Δ, E ‚ ipse autem A ipsum B
+non metiatur; dico neque alium aliquem ullum
+
+mensurum CSSQ.
+
+r est ὲ E comme H et ’3 Θ; donc H est 3 Θ comme A est 'a A. De plus,
+puisqueE multipliant Δ fait A ‚ et que Ε multipliaut z fait Β , Δ est ὲ z comme
+Λ est ὲ Β. Mais Δ est 3 Ζ comme Θ est ἐι K; douc Θ· est 3 Κ comme A est ὲι
+Β. Mais on a demontre que H est ‘a Θ comme A est ὲ Λ; douc, par egalite‚ H
+est 3 Κ comme Α est 3 Β (14. 7)‚· mais H a avec K une raison compose'e des
+cutem donc A a avec B une raison composee des cdte's. Ce qu’il fallait de-
+montrer.
+
+PROPOSITION VI.
+
+Si tant de nombres qu'on voudra sont successivement proportionnels ‚ et si le
+premier ne mesure pas le second , aucun autre n'en mesure un autre.
+Soiem A, Β, Γ, Δ, E tant de nombres successivement proportionnels qu'ou
+
+voudra, et que A ne mesure pas B,- je dis qu‘aucun autre n’en mesurera un
+antre-
+

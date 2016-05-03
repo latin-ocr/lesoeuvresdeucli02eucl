@@ -1,0 +1,43 @@
+148 LE D1X11'3ME L1VRE DEs ELEMENTS D’EUCL1DE
+
+ 
+
+l
+ΛΗΜΜΑ. LEMMA.
+
+Δύο &neena-&v εὐθειῶν ἀνία-ων, εὑρεῖν τίνι μεῖζον Duabus datis rectis inaequalibus ‚ invenire
+«surm-ou ἦ μείζων τῆς ἐλάσσονος. ‘ld quo plus potest major quam minor.
+
+Εστωσαν αἱ &Seia-m θύα ἄνισοι εὐθεῖαι, αἱ Sint datae duae inaequales rectae AB, Γ,
+ΑΒ, r, ὗν μείζωγ ’ἔστω ᾗ AB· Σεῒὸἡ εὑρεῖν τίνι quarum major sit AB3 oportet igitur invenire
+μεῖζον δύναται ἦ ΑΒ τ’ἤς Γ. id quo plus potest ΑΒ quam Γ.
+
+.
+A Δ Β
+Γ
+Γεγράφθω ἰπὶ τῖῗς ΑΒ ἧμακύκλιον, τὸ ΑΔΒ, Describatur super rectam ΑΒ semicirculus
+
+καὶ εἷς αὐτό ἒνκρμέσέω τῇ Γ ἴση ᾖ ΑΔ, καὶ ΑΔΒ, et in eo aptetur ipsi Γ rs’qualis ΑΔ, et
+
+ἐπεζεύχθω ἦ ΔΒ. φανερὸν δὴ ἔτ, ὀρθή {0-3—„11 ἦ jungatur Ab. Evidcns igitur rectum esse ΑΔΒ
+
+137Τό ΑΔΒ Ἰωνία, καὶ ἔτι ἦ ΑΒ v& ΑΔ, του· angulum, ει ΑΒ quam ΛΔ, hoc est quam r,
+τέο-τι τῆςῖ Γ, μεῖζον θύματα, τῇ ΔΒ, plus posse quadrato ex ΔΒ.
+Ομοῖως δῖ καὶ Mo ὃεθεισῶν εὐθειῶν, ὖ ιΓυ- Similiter autem et datis rectis , quae potest
+ναμέγη αὐτάς εὑρίσκεται ρῦτως, ipsas invenietur hoc modo.
+L E M M E.
+
+Deux droitcs ix16gales &tant donnsses, trouver ce dont le puissance de la plus
+grande surpasse la puissance de la plus petite.
+
+Soient ΑΒ, r les deux droites ine'tgales donmiem que ΑΒ soit la plus grande;
+il faut trouver ce dont la puissance de AB surpasse la puissance de r.
+
+Dizcrivons sur AB le demi-cerole ΑΔΒ, adaptons dans ce demi-cerole une d uite
+ΑΔ &gale ὲ r( 1. 4), et joignous AB. 11 est &vident que l'angle ΑΔΒ est droit (31. 5) ‚
+et que la puissance de ΑΒ surpasse la puissance de ΑΔ , οέεῐ-ὲ-(Ῑὶτε de r, du quan-(3
+de ΔΒ ( 47. 1 ).
+
+On trouvera de la meme manibre la droite dont la puissance &gale la somme
+des puissances de deux droites donnsses.
+

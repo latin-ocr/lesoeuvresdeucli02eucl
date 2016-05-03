@@ -1,0 +1,48 @@
+EUCLIDIS ELEMENTORUM LIBER DECIMUS. 467
+
+EDITIO PAR15113N515. CODEX 190- EDITIO OXONIAE.
+5. εῖν ......... deest ....... concordat cum edit. Paris.
+4. ἐστιν ........ deest ....... concordat cum edit. Paris.
+linea Ιρμήκει. ..... deest ....... concordat cum edit. Paris.
+6. μεῖζον ........ μείζονα ...... concordat cum edit. Paris.
+Η. πειῗισειι. . . . . . . . Id ........ δεῖξαι.
+
+l
+
+PROPOSITIO XXXI.
+
+1. ἀριθμοὶ ....... Id. . . . . . . . deest.
+2. ὡς ......... deest ....... concordat cum edit. Paris.
+¹5. τῷ ......... τῇ ........ concordat cum edit. Paris.
+
+Lemma subsequens Euclidis esse minime potest, eo quod propositionis 1
+lib. 6 consequentia sit proxima.
+
+AHMMA'K LEMMA.
+
+Εςὶν ὦσι ,ΝΟ εὐθεῖαι ἐν λόφῳ mr), {sc-rm Si sint duae rectae in ratione aliqu& ,
+ὡς ἦ 2693}oe πρὶς εὐθεῖαν οὕτως τὸ ὑπὸ τῶν erit ut recta ad rectam ita rectangulum sub
+δύο πρὶς τὲ ἐπὶ τῆς ἐλαχίστης, duabus rectis ad quadratum ex minori.
+
+Εττωταν 5¹21 δύο εὖθεῖαι αἱ ΑΒ, m· ἔν λόγῳ Sint igitur duce rectae AB, ΒΓ in ratione
+
+‘rm'- λέγω ὅτι ἐστὶν ὡς 7‘1 AB πρὸς τήν ΒΓ οὕτως ᾶὶἰψιὶιὶ dico esse ut ΑΒ ad ΒΓ ita sub AB, ΒΓ
+
+{³ E
+Ι
+
+Α Β Γ
+
+τὲ ὑπὸ τῶν ΑΒ, Br πρὸς τὸ ἀπὸ τῆς ΒΓ, Am- rectangulum ad quadratum ex ΒΓ. Desa-ibatur
+
+’ὶεᾳρεὶφθω ’γάρ ἀπὸ τῖίς ΒΓ τετρςέᾳωιόν τὸ euim ex ΒΓ quadratum ΒΔΕΓ, et compleatur
+L E M M Ε.
+
+Si l'on a deux droites dans une raison quelconque‚ l‘une d'elles sera ὲ l’autre
+comme le rectangle sous ces deux droites est au quatre dela plus petite.
+
+Soient les deux droites ΑΒ, Br dans nne raison quelconque; je dis que ΑΒ est
+ὸ ΒΓ comme le rectanglc sous AB , ΒΓ est au quarrd de ΒΓ. Car decrivons sur ΒΓ
+
+⁴¹ Deest iu codd. α, d, e, h, l, m ‚ ¹15 reperitur autem in cod. f.
+

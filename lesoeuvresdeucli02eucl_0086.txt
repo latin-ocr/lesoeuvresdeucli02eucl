@@ -1,0 +1,65 @@
+36 LE HUlTIEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+πεδῖς ἔστιν ὁ Α, πλευραὶ δὲ αὐτοῦ οἱ Γ, Δ·
+ὃ Δ ἄρα τὸν Γ πολλαπλασιάσας τὸν Α πεποίηκε.
+Διοὶ ’τοὶ αὐτοὶ ὃῆ καὶ ὅ E τὸν Ζ πολλαπλασιάσας
+τὸν Β πεποίηκεν. O A ‹3⁸9› τὸν E πολλαπλασιάσας
+τὶν H ποιείτω. Καὶ ἐπεὶ ὃ Δ τὸν μένῖι Γ πολλοι-
+πλασιοίσας τὸν Α πεποίηκε, ’τὸν ἇῖ Ε πολλα-
+πλασιάσας τὸν H πεποίηκεν ἔστιν ἄρα ὧς ὅ Γ
+πρὸς τὸν E οὕτως ὅ Α πρές τὸν Η. Αλλ’ ὧςό
+Γ πρὸς τὸν Ε οὕτως5 ὃ Δ πρὸς τὸν Ζ· καὶ ὧς
+Εἶρα ὃ Δ πρὶς τὸν Ζ οὕτως ὃ Α πρὸς τὸν H.
+nabun, {we} ὃ Ε τὸν μὲν6 Δ πολλαπλασιάσας
+τὶν H πεποίηκε, τᾶν δὲ Ζ πολλαπλασιάσας τᾶν
+B πεποίηκεν· ἔστιν ἄρα ὡς ὂ Δ πρὸς τὸν Ζ οὕτως
+ὃ H πρὸς τον Β. Εὸείχθκ mse* καὶ ὦςό Δ ’πρὸς τὸν
+Ζ οὕτως ὃ Α πρὸς τὸν Η· καὶ ὧς ἄρα c‘a A πρὶς
+’τᾶν Η οὕτως ἑ Ηπρὲς ’τὸν Β· οἱ A, H, B οἵρα ἑξῆς
+οἶνοὶλο) o'r εἶσι* τῶν Α, Β οἴμοι εἷς μέσος ἀνάλοᾳόν
+
+ἔστιν ἀριθμός.
+
+Aba> effi ’ὄτι κα) ὃ Α πρές τὸν Β διπλασίονα.
+λόγον ἔχει ἤπερ ἦ §mm-204 πλευραὶ πρὸς τήν
+ὁμόλοᾳον πλευρὰν, τουτέστιν ἤπερ ὅ Γ πρός τον
+
+E ἦ Ξ Δ ’πρὸς τὸν Ζ. Επεὶ Ἰάρ οἱ Α, Η, Βέξῖῐς
+
+niam planus est A, latera antem ipsius ipsi
+Γ, Δ; ergo Δ ipsum Γ multiplicans ipsum A
+fecit. Propter eadem utique οἱ E ipsum Z multi-
+plicans ipsum B fecit. Ipse Δ utiquc ipsum E
+multiplicans ipsum H faciat. Et quoniam Δ ipsum
+Γ quidem multiplicans ipsum Α serit, ipsum
+vcro E multiplicans ipsum H secit3 est igilur
+ut Γ ad E ita Α ad H. Sed ut Γ ad E ita Δ
+ad 23 et ut igitur Δ ad Z ita A ad H. Rursus,
+quoniam E ipsum quidem Δ multiplicans ipsum
+Η fecit 3 ipsum vcro Z multiplicans ipsum B secit3
+cst igitur ut Δ ad Z ila H ad B. ostensum
+cst autem et ul A nd Z ita A ad H3 et ut
+igilur A ad H ita H ad B5 ergo A , H, B
+deinceps proportionales suut, ipsorum A, B
+
+igitur unus medius proportionalis est uumerus.
+
+Dico ctiam ot A ad E duplam rationem ha—
+bere ejus quam homologum latus ad homologum
+latus ‚ hoc cst quam Γ ad E vel Δ ad Z. Quo-
+
+niam enim A, H, Β deinceps proportionales
+
+ὲι Ζ (13. 7 ). Et puisque A est un nombre plan, et que r, A en sont les ςόῑόε ‚ A
+muhipliant Γ fera A. Par la monne raison E multipliant Ζ fera B. Quo Δ multipliaut
+Ε fasse H. Puisque Δ multipliant Γ iaitA, et que Δ multipliam E suit Η, Γ esth
+E comme A estta H (17. 7). Mais Γ est *a E comme Δ est ὲ Ζ; donc A cst ὲι Ζ commea-
+θεῖ Ξι H. De plus ‚ putisque Ε multipliaut Δ fait H ‚ et que Ε multipliant z fait B ‚ A est
+ἐι Ζ comme H est ὲι Β. Mais on a dffimontr& que Δ est {1 Ζ comme A ost ὲι Η ; donc A
+est ὴ Η comme H est ὲ 133 donc Α , Η , Β sont successivement proportiouue155 douc
+il y a nu nombre moyen proportionnel entre A et Β.
+
+Je disque A a avec B une raison double de celle qu'un ςόιὸ homologue a avec
+un οόῑὲ homologue , c'est—h-dire de celle que Γ a avec E ou de celle que Δ a avec Z.
+Car puisque les nombre-s A , H, B sont successivement proportiounels, Α a avec Β
+

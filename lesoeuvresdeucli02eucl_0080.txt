@@ -1,0 +1,78 @@
+30 LE HUlTlEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+ΠΡΟΤΑΣΓΣ ιδ’.
+
+Edu τετράγωνος τετρέςωνον μετρῇ, καὶ ἦ
+πλευρά τὴν πλευράν μετρήσει· καὶ ἐὰν ἦ πλευραὶ
+τεῗν πλευρᾶν μετρεῖ, καὶ ὃ τετράᾳωνες τὸν τε-
+τραὶᾳωινον μετρήσει.
+
+Ηττωσαιγ τετροὶᾳωνοι ἀριθμοὶ οἱ A, B, πλευ-
+ραὶ es} αὐτῶν ἕττωσαι” οἱ Γ, A, Ξὲε Α τὶν Β
+
+μετρείτω· λε’ςω ἔτι καὶ ἑ Γ τὸν A μετρεῖ.
+
+O Γ γάρ τὶν A πολλαπλασιάσας τὸν Ε
+ποιείτω· οἱ Α , E, B ἄρα ἑξῆς ἐνάλοςίν εἷα-ιν
+ἐν τῷ τοῦ Γ πρὶς τὸν A λόγῳ. Καὶ {rte} οἱ A,
+E, B ἑξῆς drudo) ἐν εἰσι , aa} μετρεῖ o‘ A τᾶν Β·
+
+A ‚f x e ι x ,a . ε
+μετρει apa και ο Α τον Ε. Και εστιν ως ο Α
+πρὲς τὲν 1: οὕτωςὸ 1“ πρὶς τὶν Δ· μετρεῖ ἄρα
+καὶ ὅ Γ τὸν ΔΊ.
+
+Αλλά δὴ μετρείτω ὃ Γ τὶν Δῧ· λέγω ὅτι καὶ
+ὃ Α τὶν Β μετρεῖ.
+
+Τῶν ςςὲρ αὐτῶν κατασκευασθέντων, {uolam
+
+(γ er ε ’γη ‘ ³ ι ι ‚
+ὃειςομεν οτι οι Α, Ε, B εςυςῦ mmmmm εις-ιν
+
+PROPOSITIO xlv.
+
+Si quadratus quadratum metiatur, et latus
+laius 1net1'etnr; et si latus latus metiatur, qua-
+
+dratus quadratum metietur.
+
+Sint quadrati numeri A, B ‚ latera autem eorum
+sint ipsi Γ ‚ A ‚ ipsc vcro A ipsum B metiatur3
+
+dico et Γ ipsum Δ metiri.
+
+B,1G.
+
+Ipse Γ enim ipsum Δ multiplicans ipsum E
+faciat3 ipsi A ‚ E, B igitur deinceps proportio-
+nales sunt in ipsius Γ ad Δ ratione. Et quoniam
+A, E ‚ Β deinceps proportionales sunt, ct me-
+titur A ipsum 133 metitur igilur et A ipsum E.
+Atque est ut A ad E ita Γ ad Δ 3 ergo metitur et
+Γ ipsum A.
+
+Sed et metiatur Γ ipsum Δ,· dico et A ipsum
+Β meliri.
+
+Iisdem enim constructis, similiter ostende-
+
+mus A, E, B deinceps proportionales esse in
+
+PROPOSITION XIV.
+
+Si nn nombre quarre mesure un nombre quarre, le cote mesurera le cote5 et si
+le cote mesure le cote , le quasve mesnrera le quarre-
+
+Soient les nombres quarres A , 135 qne r , A soient leurs cotes ‚- qne A mesure 133
+je dis que r mesore A.
+
+Car que Γ multipliant A fasse E ‚ les nombres A, E, Β seront successivement
+proportionnels dans la raison de Γ ὲ Δ; et pnisqne A, Ε , Β sont successivement
+proportionuels ‚ et que A mesure B , A mesurera Ε (7. 8 ). Mais A est ὸ E comme
+r est ὲι A ; donc Γ mesure A (de'f. 20. 7).
+
+Mais que Γ mesure A ; je dis qne A mesure Β.
+
+Les memes choses etant communes, nous demontrerons semblablement que
+

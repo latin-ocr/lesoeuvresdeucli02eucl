@@ -1,0 +1,91 @@
+120
+
+Εστω τοὶ (Γοθέντκ τρία μεγέθη σύμμετρα τέι
+Α, Β, Γ· 192? ἓν) τῶν Α, B, Γ τὸ μέγιστον κοινὸν
+μέτρον εὑρεῖν.
+
+Α
+
+ 
+
+Β
+
+ 
+
+,Γ
+
+ 
+
+Δ
+
+ 
+
+E
+
+...οφ-ῤ’
+
+Εἰλήφθω ’γὰρ ὃόοῐ τῶν A, B τὸ μέγιστον
+κοίνὲν μέτρον, καὶ ἔστω τὸ Δ· τό δὴ Δ το Γ
+ἤτοι μετρεῖἦ 05². Μετρεῖτω πρέτερον. Em}
+οἶν τὸ Δ τὸ Γ μετρεῖ, μετρεῖ A} καὶ τοὶ Α, Ε·
+τὲ Δ Εἶρα ταὶ Α, Β, Γ μετρειῧ· τὲ Δ Alpa} τῶν
+A, Β, Γ κοινὸν μέτρον {cr-ri. Καὶ φανερὶν ὅτι
+καὶ μέᾳιστον, μεῖζον ᾳοὶρ τεῦ Δ με’)έθους ⁷2*
+A, B οὗ μετρεῖῖ.
+
+Μὴ μετρείτω <523 τὲ Δ το Γ. Λέγω πρῶτον
+’ὅτι σύμμετροί ἔστι τοὶ Γ, Δ. Erre) φοὶρ σύμ-
+μετροί ἔστι τοὶ A, Β, Γ, μετρήσει τι αὐτοὶ μί-
+γεθος, ’ὂ sumen} καὶ τοὶ Α, Β μετρήσει· ὥστε
+καὶ τῶν Α, Β μέςιστον κοινὶν μέτρον τὸ Δ με·-
+’tp-,imm Μετρεῖ δὲ καὶ τὸ Γ· ὥστε τὸ εἰρημένον
+
+μέᾳεθος μετρήσει τοὶ Γ, Δ· σύμμετροι ἆραι ἐστὶ
+
+LE DIXIEME L1vRE Dsss ELEMENTS D’EUCL1DE.
+
+Sint datae tres magnitudines commensurabiles
+A, Β, [⁷3 oportetigituripsarum A, B, Γ maximam
+
+communem mensuram. invenire.
+
+————-——-—=
+
+——-.--—-
+
+Sumatur enim duarum Α , B maxima com-
+munis mensura, et sit A; itaque Δ ipmm Γ vel
+molitur vel uon. Metiatur primum. Quoniam
+igitur A ipsam Γ metitur, metitur autem et ipsa5
+A, B, crgo Δ ipsas Α, B, Γ metitur, ergo Δ
+ipsarum A ‚ B, Γ communis mensura &LAEIaui-
+
+sestum est etiam ct maximam , major enim mag-
+
+nicudiue Δ ipsas A ‚ B hou metitur.
+
+Sed non metiatur Δ ipsam Γ. Dico primum
+commmensurabiles csse Γ, Δ. Quoniam euim
+commensurabiles sunt A, B, Γ, metietur aliqua
+eas magnitud0‚ quae scilicet ct ipsas A , B nle—
+1ictur3 quare ct ipsarum A ‚ B maximam com—
+munem mensuram Δ metietur. Metitur autem
+
+et F ς quare dictamaguitudo metietur ipsas P, A3
+
+Soient A, B, r les trois graudeurs commensurables donndcffl il saut trouver la
+
+plus grande commuue mesure des grandeurs A, B, Γ.
+Preuous Ιιι plus grande commuue mesore dc A etde Β (5. ιο), et qu'elle soit A;
+
+Δ mesure Γ ou ne le mesure pas. Qu'il lc [nesure d'abord. Puisque Δ mesure
+r, et qu'il mesum aussi Α et Β, A mesure les graudeurs A, B, 1·; douc A
+est une commune mesure des grandeurs A, Β, Γ. Et il est &vident qu'il eu est
+la plus grande, car une gram‘lem¹ plus grande que A ue [nesure pas A et Β.
+
+Mais que A ne mesure pas Γ; je dis d’abord que les gruudeurs Γ, A sont
+commensurablcs. Car puisqu'e les grandeurs A, B, Γ sont commum-ables,
+quelque gr.mdeur les mesu1·era; mais cette nmmo grandem·⁴mosuoera A et Β;
+elle mesurera donc leur plus grande commuue mcssure A. Mais cette lncrme
+grandem· mesure Γ; douc elle mesure Γ et A; donc Γ et A sont commensurables
+

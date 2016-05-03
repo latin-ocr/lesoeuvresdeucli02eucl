@@ -1,0 +1,56 @@
+LE DIXIEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+τό Ar· ὧς θὲ ἦ ΑΒ πρὲς τὴν ΒΞ οὕτως τὸ ΑΓ
+πρὸς τὸ ΓΞ· ’ἔστιν ἄρα ὥς τό ΔΑ πρός τὸ ΑΓ
+οὕτως τό ΑΓ πρὸς τὸ ΓΞ. [σον δῖ ἔστι τό μὲν
+ΑΔ τῷ ΗΘ, τὸ Σὲ ΑΓ τῷ ΜΚ, τὸ δὲ ΓΞ τῷ
+ΝΛ· ἔστιν ἄρα, ὧςγτό ΗΘ πρὸς τὸ ΜΚ οὕτως τό
+ΜΚ ’πρὸς τὸ ΝΛ· ἔστιν αἴρει καὶ ὡς ἦ ΖΘ πρὸς
+τὴν ΘΚ οὕτως ἦ ΘΚ ’πρὸς τὴν ΚΛ· τὸ ἄρα ὑπὸ
+τῶν ΖΘ, ΚΛ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΘΚ. Ρητόν
+(3¹5x τὸ ὑπὸ ’τῶν ΖΘ, ΚΛ· ῥητὸν εἶρα ἐστὶ καὶ
+τὸ ἀπὸ τῆς &w ῥητὴ o’c'pez ἔστὶν n‘ ΘΚ. Καὶ εἰ
+μὲν σύμμετρός ἔστι7 τῇ ΖΗ μήκει, §mohin-1
+τὸ ΘΝ. Εἰ δῖ ἀσύμμετρός ἐστι τῇ ZH μήκει,
+αἱ ΚΘ, ΘΜ8 fur-rod εἰσ-ι δυνάμει μόνον σύμ-
+μετροι· μέσον εἶρα ἐστὶ τὸ ΘΝ· τὸ ΘΝ ἄρα.
+{lm ῥητὸν ἢ μέσον {er—rivo. Io-ov ‹st‘ τὸ ΘΝ τῷ
+
+ΑΓ· τὸ ΑΓ εἶρα ἰῖτοι ῥητὸν ἢ μέσον ἐστι’.
+
+Τὸ οἶμαι Em} μέσων, καὶ τοὶ ἑξῆς.
+
+177
+
+ita ΔΑ ad Ar'3 ut autem ΑΒ ad ΒΞ ita ΛΓ
+ad 1³53 est igitur ut ΔΛ ad ΑΓ ita ΛΓ ad
+ΓΞ. AEquale autem est quidem ΛΔ ipsi ΗΘ,
+ipsum vero' ΑΓ ipsi MK , ipsum et ΓΞ
+ipsi NA5 est igitur ut ΗΘ ad MK ita MK ad
+NA3 est igitur et ut ΖΘ ad &K ita &K ad
+KA3 rectangulum igitur sub Z&‚ KA aequale
+est quadrato ex ΘΚ. Rationale autem rectan-
+gulum sub ΖΘ , KA3 rationale igitur est et qua-
+dratum ex &K5 rationalis igitur est ΘΚ. Et
+si quidem commensurabilis est ipsi ΖΗ longitu-
+dine ‚ rationale est ΘΝ. Si autem incommensu-
+rabilis est ipsi ΖΗ longitudine, ipsae K& ‚ &M
+rationales sunt potentia sollim commensura-
+bilc53 medium igitur est &N 5 ergo &N vel ra-
+tionale vel medium est. AEquale autem ΘΝ
+ipsi ΑΓ) ergo ΛΓ vel rationale vel medium est.
+Ergo sub mediis, ete.
+
+comme ΔΑ est ὲι Ar, et AB est ὲι ΒΞ comme Ar est ὲ ΓΞ (1. 6); donc ΔΑ est
+ὲ Ar comme Ar est ὲι ΓΞ. Mais ΑΔ est e'gal 'a H&, Ar §gal ὲ ΜΚ, >et ΓΞ egal
+ὲ ΝΛ; donc H& est a MK comme MK est ὲ ΝΛ; douc z& est a ΘΚ comme ΘΚ est
+ὲ ΚΛ;” le rectangle compris sous Z&‚ ΚΛ est donc egal au quarre de &K (17. 6).
+Mais le rectangle sous ΖΘ , ΚΛ est rationel (20. ιο) 5 donc le quarre de &K est
+1·a·tionnel; donc la droite &K est rationelle. Et si ΘΚ est commensurable en lon-
+gueur avec ΖΗ , la surfaoe &N sera rationelle. Mais si &K est incommensurable en
+longueur avec ΖΗ , les droites ΚΘ, ΘΜ seront des rationelles commensurables en
+puissance seulement, et la surfaee &N sera mediale (22. 10)‚· donc &N est rationel
+ou medial. Mais &N est ega] ὲι Ar 3 donc Ar est ou ratiouel ou medial. Dono, etc.
+
+ΙΙ. 23
+

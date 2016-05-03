@@ -1,0 +1,41 @@
+94 LE NEUVIEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+Αφῃρῆσθω ἀπὸ ’τοῦ ΓΔ μονάς ἦ ΔΕ· λοιπὸς Auferamu- τώ ipso ΓΔ unitas AE3 reliquus
+
+ἄρα ὂ ΓΕ ἄρτιός ἔστιν. Εστι δὲ καὶ ὃ ΓΑ ἄρτιος· igitur ΓΕ par est. Est autem et ΓΑ par3 et totus
+
+A ..... Β ....... Γ ......... Ε.Δ
+
+καὶ Γἕλος Alpa-5 ΑΕ ἄρτιός ἔστι, Καὶ ’ἑο-τιν ἦ μονάς igilur ΑΕ pal· est. Atque est unitas AE; impar
+ἡ ΔΕ· crepmbq ἅμ ἐστὶν 0‘ ΑΔ, Οπερ ἔδει igitur est ΑΔ. Quod oportebat ostendere.
+δεῖξαι.
+
+ΠΡΟΤΑΣΙΣ κδ’. PROPOSITIO XXIV.
+Εὲιν ἀπὸ ἀρτίου ἀριθμοῦ :sp-rm& αἱφαιρεθῇ, Si a pari numero par aufertur, reliquus
+3¹ λοιπὲς ἄρτιος ἔσται. par erit.
+Από γάρ isa-riou τοῦ ΑΒ ἀφῃρήσθω illm-1:42 ἑ Α pari enim ipso AB auferatur par BF3 dico
+ΒΓ· λέγω ἔτι ὃ λοιπὸς ὂ ΓΑ ἄρτιός ἔστιν. reliquum ΓΑ parem csse.
+A ...... Γ. . . . Β
+Επεὶ ‘jeip ὃ ΑΒ ἄρτιός ἐστιν ‚ ἔχει μέρος Quoniam enim ΑΒ par est, habet partem
+
+ἥμισυ· Διά τοὶ αὐτοὶ δὴ καὶ ὅ ΒΓ ’ἔχει μέρος dimidiam. Propter cadem utique et ΒΓ habet
+ἥμισυ· ὥστε καὶ λοιπὸς ὃ ΓΑ ’ἔχει μέρος ἥμισυ· partem dimidiam5 quare et reliquus ΓΑ habet
+ἄρτιος ἄρα ἐστὶν g As3· Οπὲρ '4:5ss 5425021, partem dimidia1n3 par igitur est ΑΓ. Quod
+
+oportebat ostendere.
+
+Retranchons (le ΓΔ l'nnite' ΑΒ le reste ΓΕ sera un nombre pair (def. 7. 7). Mais
+ΓΑ est nn nombre pair (22. 9); donc la somme ΑΕ est un nombre pair (21. 9).
+Mais ΔΕ estune unite3 donc ΑΔ est un nombre impair. Ce qu'il fallait demontrer.
+
+PROPOSITION XXIV.
+
+Si d'nn nombre pair on retranche nn nombre pair, le reste sera pair.
+
+Qne dn nombre pair AB soit retranche le nombre pair Bs3 je dis que le reste
+ΓΑ cst pair.
+
+Car pnisqne ΑΒ estun nombre pair, ce nombre a nne moitie. Par la meme
+raison ‚ ΒΓ a aussi nne moiti0'5 donc le reste ΓΑ a aussi nne moine-5 douc Ar est
+un nombre pair. Ce qu'il fallait demontrer.
+

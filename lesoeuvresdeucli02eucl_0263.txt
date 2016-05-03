@@ -1,0 +1,74 @@
+LE DIXIEME LIVRE DEs ELEMENTS D’EUCLHJE.
+
+ΠΡΟτΑΣΙΣ λς’.
+
+Εὑρεῖν δ’,ῗσ εὖθέίας δυνάμει ἀφυμμίτρους ,
+ποιούσας τό, τε συγκείμενον ἐκ τῶν ἐπ’ αὗτῶν
+τετραςώνων pirou ‚ καὶ τὸ ὁπ’ αὐτῶν μέσον,
+καὶ ἔτι ἀσύμμετρον τῷ συγκειμένῳ ἐκ τῶν ἀπ’
+αὐτῶν τετραγώνων.
+
+Εκκείσθωο-αν θυο μέσαι &vallam μοίὀν σύμμε-
+τροι αἱ ΑΒ, ΒΓ, μέσον περιέχουσαι, ὥστε τὴν
+ΑΒ ἰ’νῖςι ΒΓ μεῖὲον δύνασθαι τῷ ἀπὶ ἀσυμμέτρου
+ἑαυτῇ, καὶ ;«ε’;ροίφθω ἐπὶ τῆς ΑΒ ἡμικύκλιον τό
+ΑΔΒ, καὶ τοὶ λεπτοὶ ”leporino τοῖς ἐπάνω ἷμοίωςῖ
+
+εἱρκμείοις.
+
+203
+
+PROPOSITIO XXXVI.
+
+Invenire duas rectas potenti& incommensura—
+biles , facientes ct compositum ex ipsarum qua-
+dratis medium, ct rectangulum sub ipsis me-
+dium, et adhuc incommensurabile composito
+ex ipsarum quadratis.
+
+Exponantur duae mediae potenti& solum com-
+mensurabiles ΑΒ, ΒΓ, medium continentes,
+iza ut ΑΒ quam ΒΓ plus possit quadrato ex
+rect& sibi incommensurabili , et describatur
+super rectam AB semicirculus ΑΔΒ , et reliqua
+
+fiant congruenter iis superius dictis.
+
+ 
+
+ΑΖ τῇ ΖΒ
+
+, , , , , x . Ν
+μηκει, οισυμμετρος εστι και n ΑΔ ’τῇ ΔΒ db·
+
+Ka) ’ἐπεὶ ἀσύμμετρός ἐστιν-3 ἦ
+
+Ι x ² x Ι ⁵ x x ² x m
+ναμει. Κοιι evea μέσον εστι το avo της AB,
+μέσον αἴρει κα) τὸ συγκείμενον ἔκ τῶν aivi* τῶν
+
+m, ΔΒ. Καὶ ἐπεὶ το ὖπό τῶν ΑΖ, ΖΒ ἴσον
+
+Et qnoniam incommensurabilis est ΑΖ ipsi
+ΖΒ longitudine, incommensurabilis cst ct ΑΔ
+ipsi ΔΒ potentin. Et quoniam medium est
+quadratum cx ΑΒ, medium igilur ct compo-
+situm ex quadratisipsarum ΑΔ, ΔΒ. Εἰ quoniam
+
+rectiangulum sub ΑΖ, ZB aequulc cst quadrato
+
+PROP081T10N XXXVI.
+
+Trouver deux droites incommensuraffles eu puissance , de mani-'sm que lu.
+somme de leurs quam-es soit inediale, et que le rectangle compris sous ces droites
+soit medial et incommensurable avec la somme des quarres de ces memes droites.
+
+Soieut deux mediales AB , ΒΓ commensurables en puissance seulement, et coni-
+prenant une surface mediale, de mamere quc la pnissance de ΑΒ surpasse la puis-
+sance de ΒΓ du quarre d'une droite incommensurable avec ΑΒ (53. 1o); et sur AB
+decrivons le demi-cercle ΑΔΒ, et saisons le reste comme ila ete dit auparavant.
+
+Puisque ΑΖ est incommensurable en longueur avec ΖΒ , la droite ΑΔ est incom-
+mensurable en puissance avec ΔΒ. Et puisque le quari-‹2- de ΑΒ est media] , la somme
+des quarre's de ΑΔ et de ΔΒ est me'diale. Et puisque le rectangle sous ΑΖ, zss est
+

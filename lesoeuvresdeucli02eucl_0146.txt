@@ -1,0 +1,68 @@
+92 LE NEUVIEME LIVRE ons ELEMENTS D’EUCLIDE.
+
+ΠΡΟΤΑΣΙΣ κά.
+
+Eiv alp-not ἀριθμοὶ ὁποσηοῦν συιτεθῶσιν, ὃ
+ἕλος ἀρτιός ἐστι.
+
+Συγκείσθωσαν γάρ Alf-rtet ἀριθμῶ immam,
+οἱ ΑΒ, ΒΓ, ΓΔ, ΔΕ· >new ἔτι ἕλες ἑ AE ἆρ-
+
+τιὶς ἒττιν.
+
+Α....Β...,..Γ.
+
+Επεὶ ’μὶρ ’ἕκαστος τῶν AB, Er, ΓΔ, ΔΕ ἄρτιός
+ἔστιν, ἔχει μὲρσς ἥμισυ· ὥστε καὶ ἕλες ἶ) ΑΕ
+’ἔχει μέρος ἥμισυ. Αρτιος δὲ ἇριθμίς ἐστιν ἒ
+δίχα ἓιαιροόμειιος· ἄρτιος Εἶρα, ἐστὶν ὅ Ali.
+
+Omp ἔθει δεῖξαι.
+ΠΡΟΤΑΣΙΣ nae'.
+
+Εαὶιι περισσοὶ οἷριθμοῖ ἱπσσοιοῦν συιῐτεθῶτι, τό
+
+δῖὲ ’.πλῆθος αὐτῶν ἄρτιον ᾗ, ἕλος ἄρτιος ἔσται.
+
+PROPOSITIO XXI.
+
+Si pares numeri quotcunque componuntur,
+totus par erit.
+Componanturenim pares numm-i quolcunque
+
+AB ‚ BF, ΓΔ, ΔΕΞ dico totum ΑΕ parem esse.
+
+Δ ........ E
+
+Quoniam enim uuusquisque ipsorum AB 7 ΒΓ,
+ΓΔ, ΔΕ par est, habet partem ‹Ii1nidia1n5 quare
+et totus ΑΕ habet partem dimidiam. Par autem
+numerus est qui bifariam dix-iditum par igitur
+
+est ΑΕ. Quod oportebat ostendere.
+
+PROPOSITIO XXII.
+
+Si impares muneri quotcunque componuntur,
+
+multitudo amem ipsorum par est, totus par erit.
+
+PROPOSITION XXI.
+
+Si l'on ajoute tant de nombres pairs que l’on voudra‚ leur somme sera un
+nombre pair.
+
+Ajoutons tant de nombres pairs ΑΒ, Br, m, ΔΕ qu'on voudra5 je dis que leur
+somme ΑΕ est un nombre pair.
+
+Puisque chacun des nombres ΑΒ, ΒΓ , ΓΔ, ΔΕ est un nombre pair ‚ chacun de
+ces nombres peut erre partage en deux parties egales (def. 6. 7 ); donc leur
+somme ΑΕ peut etse partage'e en deux parties egales. Mais un nombre pair est
+celui qui peut etre partagc': endeux parties egele53 le nombre ΑΕ est donc un
+nombre pair. Ce qu'il {alluit demontrer.
+
+PROPOSITION XXII.
+
+Si l'on alonte tant de nombres impairs que l'on voudra, et si leur quantist} est
+paire ‚ leur somme sera paire⁰
+

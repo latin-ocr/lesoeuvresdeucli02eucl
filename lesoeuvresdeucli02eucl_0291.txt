@@ -1,0 +1,65 @@
+LE DIXIEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+ΠΡΟΤΑΣῙΣ ν’.
+
+Εὖρεΐίι τὴν {n δύο ὄνομάτων &adpatr-
+
+Ἐκκείσθωσαν θύα ἀριθμοὶ οἱ ΑΓ, ΓΒ, ὥστε
+τὸν συγκείμενον ἒξ αὐτῶν τὸν ΑΒ πρὶς μὲν τὸν
+ΒΓ λόῃον ἔχειν ὃν τετραέᾳωνος ἀριθμὸς πρὸς
+τετράᾳωνον ἀριθμὸν, ’πρὸς δῖ τᾶν ΑΓ λόγον
+μιῖ ἔχειν ἓν τετράῖωνος οἷριθμδς πρὲς τετραέ-
+
+ἰωνον ἀριθμὸν, καὶ ἐκκείσθω ῥητὴ n‘ A, καὶ ’[ιῖ
+
+Δ σύμμετρος ἔστω ὗ ΖΗ μήκεν ῥητὴ ἄρα. ἐστὶν
+’ἦ ΖΗ. Γεγοιέτω (1Χῆ καὶ ὦς ὅ ΓΑ ἀριθμὸς πρὸς
+τὸν ΑΒ οὕτως τὸ ἀπὸ τῆς ΗΖ πρὸς τὸ ἀπὸ
+’τῆς ZE· σύμμετρον ἄρα ἐστὶ τὸ ἀπὸ τῆς ΗΖ
+τῷ ἀπὸ ’τῆς ΖΕ· ῥητὴ ἆρα ἐστὶ καὶ ἦ ΖΕ. Ka)
+ἐπεὶ ὃ ΓΑ ἀριθμὸς πρὸς τὸν ΑΒ λόγον οὐκ ’ἔχει
+ἓν τετράγωνος ἀριθμὸς πρὸς τετράγωνον ἀριθ-
+
+X Ί 1 >l X 9 X Ν Χ ἱ Ί x
+μον, ουδΧ αραῙ το ατο της ΗΖ προς το ατη
+
+231
+
+PRO POSITI O L.
+
+Invenire ex binis nominibus secundam.
+
+Exponantur duo numeri Ar, ΓΒ, ita ut ΑΒ
+compositus ex ipsis ad ΒΓ quidem rationem
+habeat quam quadratus numerus ad quadratum
+numerum, ad ΑΓ verb rationem non habeat
+quam quadratus numerus ad quadratum nume-
+
+rum, et exponatur rationalis Δ ‚ et ipsi Δ com-
+
+ 
+
+mensurabilis sit ZH longitudine7· rationalis igitur
+est ZH. Fiat et ut ΓΑ numerus ad ipsum AB
+ita ex HZ quadratum ad ipsum ex ZE3 commen-
+surabile igitur est ex HZ quadratum quadrato
+cx ZE3 rationalis igitur est et ZE. Et quoniam ΓΑ
+numerus ad ipsum ΑΒ rationem non habet quam
+quadratus numerus ad quadratum numerum ‚
+
+neque igitur ex ΗΖ quadratum ad ipsum ex
+
+PROPOSITION L.
+
+Trouver la seconde de deux noms.
+
+Soient les deux nombres Ar, ΓΒ, de muniere que leur somme ΑΒ ait avec nr
+la raison qu’uu nombre quarre' a avec un nombre quarre (3olem. 1. ιο), et que ΑΗ
+n⁷ait pas avec Ar la raison qu’un nombre qual-re a avec un nombre qna1·re; soit la
+rationelle Δ, et que ΖΗ soit commensurable en longueur avec Δ,· la droite ΖΗ sera
+rationelle. Fuisons en sorte qne le nombre ΓΑ soit au nombre AB comme le qnarre
+de ΗΖ est au quarre de ΖΕ (6. cor. 10); le quarre de ΗΖ sera commensurable avec le
+quarre de ΖΕ (6. 10); Ia droite ΖΕ est donc rationelle (def. 6. 10). Et puisque le
+nombre ΓΑ n'a pas avec le nombre AB la raison qu'un nombre quarre a avec un
+nombre quarm}¹ ‚ le qum-re de ΗΖ ῃέιιηέι pas non plus avec le quarre de ιε la raison
+

@@ -1,0 +1,51 @@
+128 LE D1X1EME LIVRE DES JELEMENTS D'EUCLIDE.
+
+lTOPIEMA⁴
+
+Εκ δὴ τούτου φανερὸν, ’ότι ἐάν ὦσι δύο Apte-
+μοὶ ὡς οἱ Δ, E, καὶ εὐθεῖα ὧς ἦ A, δύνατόν ἔστι
+:mahom ὡς ὃ Δ ἀριθμὸς πρὸς τὲν Ε ἀριθμὸν
+οὕτως ἦ εὐθεῖοϋ πρὸς εὐθεῖαν. Εαὶν δὲ καὶ τῶν
+A, Ζ μέση σἰιῐαίλοᾳον ληφθῇ ὡς ἡ B, ’ἔσται ὦς
+
+ἦ Α πρὸς τὴν Ζ οὕτως τὸ ἀπὸ τῆς Α πρὸς τὸ
+
+ἀπὸ τῆς Β, τουτέστιν ὧς ἦ πρώτη ’,τρές τὴν
+τρίτην οὕτως τὸ ἀπὸ τῆς πρώτης πρὶς τό
+ἀπὸ τῆς δευτέραις, τὸ ἕμοιον καὶ ὁμοίως οἰνα-
+ῃραφόμενον. Αλλ’ ὡς ἦ Α πρὸς ’τὴν Ζ οὕτως ἔστὶν
+ὅ Δ ἀριθμὸς ’πρὶς τᾶν E ἀριθμόν· μ”φονεν ἄρα
+καὶ ὧςὸ Δ οἷριθμός ’πρὸς τὸν Ε ἐριθμόν οὕτως
+τὸ ἀπὸ τῖίς Α εὐθείας ’πρός τὸ ἀπὸ *τῆς Β
+
+εὖθείαςῖ.
+
+COROLLARIUM.
+
+Ex hoc utique manifestum cst , si sint duo nu-
+meri ut Δ , E , ct reela ut A, possibile esse fieri
+ut Δ numerus acl E numerum ita rectam ad
+rectam. Si autem ct ipsarum Α, Ζ media pro-
+
+portionalis sumatur ut B, erit ut A ad Z ita
+
+quadratum ex Α ad ipsum ex Β, hoc est ut
+prima nd tertiam ila figura ex prima} ad ipsam
+ex secunda, similem et similiter descripmm. Sed
+ut A ad Z ita est Δ numerus ad E numerum3
+factum cst igilur ct ut Δ uumerus ad E numerum
+
+ita figura ex rect& A ad ipsam ex recu-⁴1 B.
+
+COROLLAIRE.
+
+De 121 il est evident que si l'on a deux nombres comme Δ et E, et une droite
+comme A ‚ il sera possible de faire en sorte que lc nombre Δ soit an nombre Ε
+comme la droite A est ὲι une autre droite. Mais si l'on prend une moyenne pro-
+portionnelle comme Β entre A et z (cor. 20. 6), A sera ὲ Ζ comme le quarre
+de A est au quarre de 133 c'est-h-dire que la premiere sera ὲ la troisieme‚
+comme la figure de'crite sur la premiere est ἐι la figure semblable et sembla-
+blement decrite sur la troisieme (cor. 20. 6). Mais A est Ξ] Ζ comme le nombre
+Δ est au nombre ἒς ou a donc fuit de telle maniere que le nombre Δ est au nombre
+ε comme >la figure de'crite sur la droite A est ὲ la figure de'crite sur la droite Β.
+

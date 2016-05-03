@@ -1,0 +1,60 @@
+LE HUITIEME LIVRE DES ELEMENTS D’EUCLlDE.
+
+σιαίσας ἑκάτερον τῶν Μ, Ν ποιείτω. Καὶ πάλιν,
+ὃμὲν Β τὶν Γ πολλαπλασιάσας τὸν Ξ ποιείτω,
+ἑκάτερος ὃὲ τῶν Β, Γ τὸν Ξ πολλαπλασιάσας
+ἑκάτερον τῶν O, Π ποιείτω.
+
+Ομοίως δὴ τοῖς ἐπάνω δὶιξομεν ’ὄτι οἱ Δ, Λ,
+E na} οἵ Η, Μ, Ν, Θ ἕξῆς εἰσ-ιν οἷνοῖλοᾳονῑ·
+ἒν τῷ ’τοῦ Α πρὸς τὶν Β λόγῳ, καὶ ἔτι οἱ Ε,
+Ξ, Ζ καὶ οἵ Θ, O, Π, K ἑξῆς εἰσιν ἀνείλο-
+’γον3 ἒν τῷ τοῦ Β πρός τὸν Γ λόγῳ. Καὶ ’ἐστιν
+ὦς ὃ Α πρὸς τᾶν Β σὸτωςό Β πρδς τὸν Γ· καὶ
+οῙΔ, Λ, Ε α”ροι τοῖς Ε, Ξ, Ζ ἔν τῷ αὖτῷ
+λόφῳ elo-2, καὶ ἔτι οἵ Η, Μ, Ν, Θ τοῖς Θ,
+Ο, Π, K. Καὶ ἔστιν ἴσον τό μὲν ⁷chst A, A, E
+πλῆθος τῷ τῶν Ε, Ξ, Ζ πλήθει. Tb 8} τῶν
+Η, Μ, Ν, Θ τῷ τῶν Θ, ο, n, K· καὶ5 mm
+αἴρει ἐστὶν ὧς μὲν ὃ Δ πρός τὸν E οὕτως ὃ E
+
+x x ι ⁸ ἓ x x ‘l ‹
+προς τοι] Ζ, ως δῖ ο H προς τον Θ ουτως ο Θ
+
+πρὶς τὸν K. Οπερ ’ἔθει «Γεῖξαι.
+
+29
+ipsum A multiplicans utrumque ipsorum M, N
+faciat. Et rursus B quidem ipsum Γ multiplicans
+ipsum Ξ faciat, uterque vero ipsorum B, Γ ipsum
+’Ξ multiplicans utrumque ipsorum O, Π faciat.
+
+Congruenter utique praecedentibus ostende-
+mus ipsos A, A, E et ipsos H ‚ M, N, Θ dein-
+ceps esse proportionales in ratione ipsius A
+ad B , et adhuc ipsos E, Ξ, Ζ ct ipsos Θ, Ο,
+Π, K deinceps esse proportionales in ratione
+ipsius Β ad Γ. Atque estut Α ad B ita B ad F,
+et Δ, Λ, E igitur in eadem ratione sunt in qu&
+E, Ξ, ZetadhucipsiH, Μ, N, Θ in qu& ipsi Θ,
+0, n , K. Et est aequalis quidem ipsorum Δ , A, E
+multitudo ipsorum E , Ξ, Ζ multitudini. Ipsorum
+vero H, M, N, Θ multitudo ipsorum Θ, 0, Π,
+1< multitudini, et ex aequo igitur est ut quidem
+Δ ad E ita Ε ad Z, ut vero H ade ita Θ ad K.
+Quod oportebat ostendere.
+
+M, N; et de plus, que Β multipliant 1· fasse Ξ, et que les nombres B, r multipliant
+Ξ fassent 0, Π.
+
+Nous demontrerons de la meme maniere qu’auparavant que les nombres
+Δ , A, Ε et H, M, N, Θ sont successivement proportionnels dans la raison de A ὲι
+Β , que les nombres E, Ξ, Ζ et Θ, 0, Π , K sont aussi successivement proportionnels
+dans la raison de Β ὲ Γ. Mais A est ὲι Β comme B est ὲ 1·; donc les nombres
+A, A, E sont en meme raison que les nombres E, Ξ, Ζ, et les nombres H, M,
+N, Θ en meme raison que les nombres Θ, 0, Π, K. Mais la quantit& des
+nombres A, A, E est egale h la quantit& des nombres E, Ξ, 23 et la quan-
+titoe': des nombres H, M, N, Θ est egale ὲ la quantit& des nombres Θ, 0, n,
+K, donc par egalite A est ὲι Ε comme E est ὲ z, et H est ὲι Θ comme Θ est
+‘a Κ (14. 7 >. Ce qu⁷il fallait demontrer.
+

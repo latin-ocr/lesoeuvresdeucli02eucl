@@ -1,0 +1,66 @@
+LE DIXIEME LIVRE DES EIAEMENTS D’EUCLIDE.
+
+ΠΡΟΤΑΣΙΣ nae'.
+
+H τῇ μέσῃ σύμμετρος μέση ἷστίν.
+
+Εστω μέση ἦ A, καὶ τῇ Α σύμμετρος ἔστω
+ἦ B· λέγω ὅτι καὶ ἦ Β μέση ἐστίν.
+
+Eunaia-611) 752? ῥητὴ ἦ ΓΔ, καὶ τῷ μὲν ἀπὸ
+τῆς Α ἴσον παραὶ τὴν ΓΔ ’παραξεξλήα-θω χωρίον
+ὄρθόνγωνιον τὸ ΓΕ πλάτος vocam τὴν ΕΔ· ῥητὴ
+ἄρα ἐστὶν ἦ ΕΔ, καὶ ἀσύμμετρος τῇ ΓΔ μήκει.
+Τῷ δὲ ἀπὸ τῆς Β ἴσον παραὶ τήν ΔΓ παραζε-
+
+§uſtrina χωρίον ὄρθοζγώνιον τὸ ΓΖ πλάτος ποιοδν
+
+ 
+
+ 
+
+’τήν ΖΔ. Επεὶ οὗν σύμμετρός ἔστιν ᾖ Α τῇ Β,
+σύμμετρόν ἔστι καὶ τὸ ἀπὸ ’τῆς Α τῷ ἀπὸ
+τῆς Β. Ama} τῷ μὲν ἐπὸ τῆς Α ἴσον ἐστὶ ’τό
+
+ΕΓ, τῷ δῖ ἀπὸ τῆς Β ἴσον ἐστὶι τὸ ΓΖ· σύμ-
+
+¹71
+
+PROPOSITIO XXIV.
+
+Recta medi-73 commensurabilis media est.
+
+sit media A , et ipsi A commensurabilis sit B,-
+dico et B mediam esse.
+
+Exponatur enim rationalis ΓΔ, et quadrato
+quidem ex A aequale ad ΓΔ applicetur spatium
+rectangulum ΓΕ latitudinem faciens EA5 ratio-
+nalis igitur est EA, et incommensurabilis ipsi
+ΓΔ longitudine. Quadrato autem ex Ε aequale
+
+ad ΔΓ applsseetur spatium reclaugvlum ΓΖ lat-2*
+
+λ
+
+tudinem faciens ΖΔ. Quoniam igitur commen-
+surabilis est A ipsi B, commensurabile est et
+ex A quadratum quadrato ex B. Sed quadrato
+quidem ex Α aequale est Er, quadrato autem
+
+PROPOSITION XXIV.
+
+Une droite commensurable avec une mediale, estune mediale.
+soit la me'diale A, et que Β soit commensurable avec A‚· je dis que la droite Β
+
+εει ωρἀαἷε.
+
+Car soit la rationelle ΓΔ, et soit appliqu& ὲι ΓΔ un rectangle ΓΕ qui, faisant
+
+la largeur ΕΔ ‚ soit &gal au quarre'e de Α; la droite EA sera rationelle et incom-
+mensurable en longueur avec ΓΔ (25. πο). Soit aussi appliqu& ὲ ΔΓ un rectangle
+ΓΖ qui, faisant la largeur ΖΔ, soit &gal au quarrf': de B. Puisque A est commen-
+surable avec B, le quarrc' de Α sera commensurable avec le quarn} de Β
+(cor. 9. ιο). Mais Er est &gal au quarn} de A, et ΓΖ est &gal au qum-r& de Βὶ
+
